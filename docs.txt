@@ -1,0 +1,19 @@
+Vite: next gen frontend tool for creating react apps faster 
+https://tailwindcss.com/docs/guides/vite
+
+$ npm create vite@latest
+$ cd modern_bank_app
+$ npm install
+$ npm run dev
+
+$ npm install -D tailwindcss
+$ npx tailwindcss init
+
+
+DEPLOYMENT: 
+$ npm run build
+
+This will create an optimised production build 
+
+- we have now the dist folder
+- Netlify, manual deploy, drop the dist folder 
